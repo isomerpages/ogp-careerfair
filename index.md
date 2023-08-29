@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: OGP at the NUS Computing Career Fair
+description: Find out more about OGP's internship opportunities & the Tech for
+  Public Good initiative!
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
