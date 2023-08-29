@@ -15,7 +15,7 @@ sections:
           description: Leave your contact details!
           url: https://go.gov.sg/tfpgcareerfairform
         - title: Ready to apply?
-          description: Our internship roles here!
+          description: OGP's internship roles here!
           url: https://go.gov.sg/sweinternnus
         - title: Tech for Public Good
           description: Check out our Govt roles here!
