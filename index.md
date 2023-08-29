@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: OGP's Internship day 2023
-      description: Hear from our Class 0f 2023's Interns!
+      description: Hear from our Class Of 2023's Interns!
       button: Watch it here!
       url: https://go.gov.sg/ogpinternsharingday
       image: /images/internsharing.png
