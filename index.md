@@ -23,12 +23,12 @@ sections:
       title: Life as an OGP Intern
       description: Find out what it's like to be an OGP Intern!
       button: Watch this video!
-      url: " https://go.gov.sg/ogpinternlife"
+      url: https://go.gov.sg/ogpinternlife
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Hear from our Class 0f 2023's Interns!
+      description: OGP's Internship day 2023
+      button: "Watch it here! "
+      url: https://go.gov.sg/ogpinternsharingday
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
