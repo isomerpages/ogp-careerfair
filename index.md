@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: OGP @ NUS Computing Career Fair
-      background: /images/home-banner-edited.png
+      background: /images/aboutus.jpg
       key_highlights:
         - title: Interested but not ready to apply?
           description: Leave your contact details!
