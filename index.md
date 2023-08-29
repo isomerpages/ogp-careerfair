@@ -19,7 +19,7 @@ sections:
           url: https://go.gov.sg/sweinternnus
         - title: Tech for Public Good
           description: Check out our Govt roles here!
-          url: https://techhiring.open.gov.sg/roles/tech-lead/
+          url: https://go.gov.sg/nustfpg
   - infopic:
       title: Life as an OGP Intern
       description: Find out what it's like to be an OGP Intern!
