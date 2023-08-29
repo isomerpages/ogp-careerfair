@@ -27,12 +27,12 @@ sections:
   - infobar:
       title: Hear from our Class 0f 2023's Interns!
       description: OGP's Internship day 2023
-      button: "Watch it here! "
+      button: Watch it here!
       url: https://go.gov.sg/ogpinternsharingday
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - infobar:
+      title: Tech for Public Good
+      description: The TFPG hiring initiative was launched on Nov’22 to consolidate &
+        accelerate Singapore Government's tech hiring!
+      button: Find out more
+      url: https://techhiring.open.gov.sg/roles/tech-lead/
 ---
