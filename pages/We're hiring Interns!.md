@@ -3,8 +3,7 @@ title: We're hiring Interns!
 permalink: /example-page/
 description: ""
 ---
-**Check out the available internship roles across Government!
-**
+<big>**Check out the available internship roles across Government!**</big>
 
 [Open Government Products - SWE Internships](https://go.gov.sg/sweinternnus) (May - Aug 2024)
 
