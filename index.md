@@ -9,7 +9,6 @@ sections:
   - hero:
       title: OGP @ NUS Computing Career Fair
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Interested but not ready to apply?
