@@ -39,7 +39,7 @@ sections:
       description: The TFPG hiring initiative was launched on Nov’22 to consolidate &
         accelerate Singapore Government's tech hiring!
       button: Start your career @ Gov here!
-      url: https://techhiring.open.gov.sg/roles/tech-lead/
+      url: https://go.gov.sg/nustfpg
       image: /images/tfpgasfsa.png
       alt: Image alt text
 ---
