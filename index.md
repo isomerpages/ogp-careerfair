@@ -3,7 +3,7 @@ layout: homepage
 title: OGP at the NUS Computing Career Fair
 description: Find out more about OGP's internship opportunities & the Tech for
   Public Good initiative!
-image: /images/isomer-logo.svg
+image: /images/ogp logo.png
 permalink: /
 notification: ""
 sections:
