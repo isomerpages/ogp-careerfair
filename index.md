@@ -4,12 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: OGP at the NUS Computing Career Fair
+notification: ""
 sections:
   - hero:
       title: OGP @ NUS Computing Career Fair
       background: /images/hero-banner.png
-      url: /contact-us/
       key_highlights:
         - title: Interested but not ready to apply?
           description: Leave your contact details!
@@ -21,9 +20,19 @@ sections:
           description: Check out our Govt roles here!
           url: https://techhiring.open.gov.sg/roles/tech-lead/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Life as an OGP Intern
+      description: Find out what it's like to be an OGP Intern!
+      button: Watch this video!
+      url: " https://go.gov.sg/ogpinternlife"
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
