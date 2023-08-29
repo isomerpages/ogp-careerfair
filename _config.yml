@@ -54,6 +54,6 @@ staging: https://staging.d3j94ogxg4l4q3.amplifyapp.com
 prod: https://master.d3j94ogxg4l4q3.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/ogp logo.png
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
