@@ -1,4 +1,4 @@
-title: Title
+title: OGP at the NUS Computing Career Fair
 url: https://career-fair.open.gov.sg
 favicon: /images/favicon.png
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Find out more about OGP's internship opportunities & the Tech for
+  Public Good initiative!
 permalink: none
 baseurl: ""
 exclude:
