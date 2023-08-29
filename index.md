@@ -36,4 +36,11 @@ sections:
         accelerate Singapore Government's tech hiring!
       button: Find out more
       url: https://techhiring.open.gov.sg/roles/tech-lead/
+  - infopic:
+      title: Life as an OGP Intern
+      description: Find out what it's like to be an OGP Intern!
+      button: Watch this video!
+      url: https://go.gov.sg/ogpinternlife
+      image: /images/life as an ogp intern.png
+      alt: Image alt text
 ---
