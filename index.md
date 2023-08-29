@@ -50,4 +50,12 @@ sections:
       url: https://go.gov.sg/ogpinternsharingday
       image: /images/internsharing.png
       alt: Image alt text
+  - infopic:
+      title: Tech for Public Good
+      description: The TFPG hiring initiative was launched on Nov’22 to consolidate &
+        accelerate Singapore Government's tech hiring!
+      button: Start your career @ Gov here!
+      url: https://techhiring.open.gov.sg/roles/tech-lead/
+      image: /images/tfpgasfsa.png
+      alt: Image alt text
 ---
